@@ -1,0 +1,3 @@
+
+#Loại bỏ folder node_module không đưa github (vì quá nặng có thể dùng lệnh npm install để cài lại dựa vào node_module)
+/node_modules
